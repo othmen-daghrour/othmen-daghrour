@@ -1,6 +1,6 @@
-<ul>
-  <li>React | React Native | Node.js Developer<li/>
-  <li>Computer Vision and Image Processing enthusiast<li/>
-  <li>Data Visualization Expert<li/>
-  <li>Married to C<li/>
-<ul/>
+
+  <p>React | React Native | Node.js Developer<p/>
+  <p>Computer Vision and Image Processing enthusiast<p/>
+  <p>Highly skilled in Data Visualization<p/>
+  <p>Married to C<p/>
+
